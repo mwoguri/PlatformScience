@@ -6,6 +6,10 @@ public class NewsResponse {
     int totalResults;
     List<NewsItem> articles;
 
+    public List<NewsItem> getArticles() {
+        return articles;
+    }
+
     @Override
     public String toString() {
         return "NewsResponse{" +
