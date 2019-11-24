@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PlatformScience</string>
+    <string name="thumbnail_description">news item thumbnail</string>
 </resources>

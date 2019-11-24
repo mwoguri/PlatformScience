@@ -6,7 +6,19 @@ public class NewsItem {
     String author;
     String title;
     String description;
-    String urlToImage;
+    String urlToImage; //TODO rename
+
+    public String getTitle() {
+        return title;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public String getUrlToImage() {
+        return urlToImage;
+    }
 
     @Override
     public boolean equals(Object o) {
