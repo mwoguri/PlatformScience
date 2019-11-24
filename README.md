@@ -12,3 +12,6 @@ constraint layout for efficiency
 How to handle the API results shifting?  e.g. may contain duplicates if item falls in rank
 
 TODO handle rotation
+
+Different layout for tablet?  Or still just scrolling list
+test on more devices
